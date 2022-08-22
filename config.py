@@ -50,7 +50,7 @@ else:
     DISABLE_CHANNEL_BUTTON = False
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "چیکارمیخوایی بکنی خوشگله؟😁"
+USER_REPLY_TEXT = "چیکارمیخوایی بکنی خوشگله؟"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
